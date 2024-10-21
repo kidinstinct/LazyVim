@@ -17,7 +17,6 @@ return {
           "mypy",
           "prettier",
           "prettierd",
-          "pydocstyle",
           "pyright",
           "ruff",
           "tflint",
